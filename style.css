@@ -48,7 +48,6 @@ body{
 header{
     background-image:linear-gradient(to bottom, #2fa866, #1a5c37, #063d1e);
     color: white;
-    height: 150px;
     padding-top: 40px;
 }
 
@@ -63,7 +62,7 @@ header > h1{
 
 header > p{
     text-align: center;
-    margin: 20px auto;
+    margin: 20px auto 0px auto;
     font-family: var(--font1);
     font-size: 1.2em;
     max-width: 500px;
